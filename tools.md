@@ -26,16 +26,20 @@ corresponding commands.
 
 For example:
 
-{ "simple-git-hooks": { "pre-commit": "npx lint-staged", "pre-push": "npm run
-typecheck",
+```json
+{ 
+    "simple-git-hooks": { 
+        "pre-commit": "npx lint-staged", 
+        "pre-push": "npm run typecheck",
 
-    // if you'd prefer preserve all unused hooks
-    "preserveUnused": true,
+        // if you'd prefer preserve all unused hooks
+        "preserveUnused": true,
 
-    // if you'd prefer preserve specific unused hooks
-    "preserveUnused": ["commit-msg"]
-
-} }
+        // if you'd prefer preserve specific unused hooks
+        "preserveUnused": ["commit-msg"]
+    }
+}
+```
 
 ```bash
 git config core.hooksPath .git/hooks/
