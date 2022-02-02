@@ -25,6 +25,7 @@
     "stephen.deletang@shopopop.com"
   ],
   "scripts": {
+    "start": "ts-node src/index.ts",
     "test": "jest --reporters=default",
     "build": "tsc --build",
     "version": "npm run build",
