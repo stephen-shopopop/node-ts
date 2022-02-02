@@ -1,8 +1,7 @@
 // Copyright 2021-2022 Shopopop. All rights reserved. ISC license.
 
 export function hello (name: string): string {
-  const test = 'test'
-  return 'hello' + name + test
+  return 'hello ' + name
 }
 
 console.log(hello(' you'))
