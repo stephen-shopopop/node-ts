@@ -19,13 +19,14 @@ Template nodejs typescript with ts-standard
 ## Contributing
 
 1. npm run build -  Build library.
-2. npm run test - Run test with jest.
-3. npm run lint - Lint your code.
-4. npm run lint:fix - Lint & fix your code.
-5. npm run typecheck - Run typescript check.
-6. npm run doc - Generate html doc.
-7. npm run release - Release library
-8.  npm run fix - Fix library
+2. npm run start - start project
+3. npm run test - Run test with jest.
+4. npm run lint - Lint your code.
+5. npm run lint:fix - Lint & fix your code.
+6. npm run typecheck - Run typescript check.
+7. npm run doc - Generate html doc.
+8. npm run release - Release library
+9.  npm run fix - Fix library
 
 ## Docs
 
