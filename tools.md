@@ -58,11 +58,3 @@ if you change configuration:
 ```bash
 npx simple-git-hooks
 ```
-
----
-
-## VSCODE
-
-### VSCODE EXTENSION:
-
-- https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard

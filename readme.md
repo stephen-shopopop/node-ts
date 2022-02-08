@@ -32,6 +32,21 @@ Template nodejs typescript with ts-standard
 
 ### Summary
 
-- [Documentations](docs/index.html)
+### Summary
+
+- [Apprendre nodejs](https://github.com/stephendltg/nodebook)
+- [Apprendre typescript](https://www.typescriptlang.org/fr/)
+- [Reference javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
+- [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [NPM documentation](https://docs.npmjs.com/cli/v8/commands)
+- [Package.json documentation](https://docs.npmjs.com/cli/v8/configuring-npm/package-json)
+- [Apprendre Git](https://www.atlassian.com/fr/git/tutorials/setting-up-a-repository)
 - [Git conventions](conventions.md)
 - [library & tools](tools.md)
+
+### VSCODE Addons
+
+- [js-standard](https://marketplace.visualstudio.com/items?itemName=standard.vscode-standard)
+- [jest runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+- [thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+- [git lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
