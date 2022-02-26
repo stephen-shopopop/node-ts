@@ -43,6 +43,7 @@ npm start
 
 - [Apprendre nodejs](https://github.com/stephendltg/nodebook)
 - [Apprendre typescript](https://www.typescriptlang.org/fr/)
+- [Typescript configuration](https://github.com/tsconfig/bases)
 - [Reference javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference)
 - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 - [Nodejs best practices](https://github.com/goldbergyoni/nodebestpractices)
