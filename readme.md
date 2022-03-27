@@ -67,3 +67,12 @@ npm start
 - [jest runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 - [thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 - [git lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+### Package maintenance
+
+A modern cli tool that keeps your deps fresh
+
+```bash
+npx taze
+```
+
