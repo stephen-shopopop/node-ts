@@ -2,7 +2,7 @@
 
 Nommer les messages de commits Le message d’un commit doit être clair et concis,
 il doit indiquer ce qui a été modifié et la raison de cette modification. La
-convention de nommage la plus utilisée est la “Conventional Commits“.
+convention de nommage la plus utilisée est la “[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)“.
 
 L’avantage de respecter cette convention, outre le fait de rendre plus
 compréhensibles vos commits, est de permettre de respecter la sémantique de
