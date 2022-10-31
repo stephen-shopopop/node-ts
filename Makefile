@@ -17,11 +17,6 @@ install:
 run:
 	. ${NVM_DIR}/nvm.sh && nvm use ${NODE} && $(CMD)
 
-## Alias nvm
-.PHONY: alias
-alias:
-  . ${NVM_DIR}/nvm.sh alias default $(cat .nvmrc)
-
 ## Nvm: install nvm
 ## Start make nvm and restart your terminal
 .PHONY: nvm
