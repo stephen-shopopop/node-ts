@@ -1,9 +1,9 @@
 #!make
 PROJECT ?= $(shell node -p "require('./package.json').name")
 NVM = v0.39.3
-NODE ?= $(shell cat $(PWD)/.nvmrc 2> /dev/null || echo v16.15.0)
+NODE ?= $(shell cat $(PWD)/.nvmrc 2> /dev/null || echo v16.18.1)
 
-.PHONY: help all build install nvm test lint lint-autofix typecheck release git-hooks gen tags task
+.PHONY: help all build install nvm test lint typecheck git-hooks tags task
 
 default: help
 
@@ -18,7 +18,7 @@ run: ## NPM install
 	. $(NVM_DIR)/nvm.sh && nvm use $(NODE) && $(CMD)
 
 all: ## Run build, lint, typecheck and test for all packages
-	make build lint typecheck test
+	make lint typecheck test build
 
 install: ## Install node version
 	. $(NVM_DIR)/nvm.sh && nvm install $(NODE)
