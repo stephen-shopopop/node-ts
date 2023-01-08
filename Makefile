@@ -1,6 +1,6 @@
 #!make
 PROJECT ?= $(shell node -p "require('./package.json').name")
-NVM = v0.38.0
+NVM = v0.39.3
 NODE ?= $(shell cat $(PWD)/.nvmrc 2> /dev/null || echo v16.15.0)
 
 .PHONY: help all build install nvm test lint lint-autofix typecheck release git-hooks gen tags task
