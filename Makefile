@@ -39,9 +39,6 @@ typecheck: ## Run typecheck
 git-hooks: ## Install git hooks
 	make run CMD="npx simple-git-hooks"
 
-gen: ## Generate packages child
-	make run CMD="node generate.js"
-
 ## Tasks
 ## ex: make task lint
 task: ## Run task
