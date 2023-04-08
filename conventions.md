@@ -42,7 +42,7 @@ valeurs :
 - revert: Annulation d’un précédent commit;
 - chore: Toute autre modification (mise à jour de version par exemple). Pour
   chacun des types, vous pouvez également utiliser un système d’emoji comme
-  gitmoji.
+  gitmoji. [gitmoji](https://gitmoji.dev)
 
 **Le scope**
 
