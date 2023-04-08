@@ -89,6 +89,10 @@ BREAKING CHANGE: findById and findByPrimary methods have been removed.
 Closes #78
 ```
 
+**VsCode extension: 
+
+- https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits
+
 **Nota**
 
 Contourner les hooks Il est possible de contourner l’utilisation des hooks via
