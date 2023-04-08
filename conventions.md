@@ -89,7 +89,7 @@ BREAKING CHANGE: findById and findByPrimary methods have been removed.
 Closes #78
 ```
 
-**VsCode extension: 
+**VsCode extension:**
 
 - https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits
 
